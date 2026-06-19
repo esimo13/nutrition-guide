@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / frontend
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,201 @@
+user_id,age,district,trimester,bmi,blood_pressure,history_diabetes,history_anemia,current_season,maternal_anemia_rate,newborn_stunting_risk,soil_zinc_deficiency,water_salinity_level,target_calories,target_iron_tier,restrict_sugar,restrict_sodium
+USR_001,38,Khulna,1,16.5,Normal,0,0,Summer,41.5,High,1,High,1910,High Priority,0,0
+USR_004,40,Khulna,2,22.5,Normal,0,1,Winter,41.5,High,1,High,2180,High Priority,0,0
+USR_005,21,Khulna,2,32.1,Normal,0,0,Winter,41.5,High,1,High,2370,High Priority,0,0
+USR_007,20,Khulna,1,28.6,Normal,0,0,Winter,41.5,High,1,High,2150,High Priority,0,0
+USR_020,19,Khulna,1,32.7,High,1,0,Summer,41.5,High,1,High,2230,High Priority,1,1
+USR_027,19,Khulna,3,28.4,Normal,1,0,Monsoon,41.5,High,1,High,2450,High Priority,1,0
+USR_028,24,Khulna,1,26.2,Normal,0,0,Winter,41.5,High,1,High,2100,High Priority,0,0
+USR_033,19,Khulna,3,25.1,High,0,1,Monsoon,41.5,High,1,High,2380,High Priority,0,1
+USR_047,28,Khulna,2,31.2,High,0,1,Winter,41.5,High,1,High,2350,High Priority,0,1
+USR_050,38,Khulna,3,23.6,High,0,0,Winter,41.5,High,1,High,2350,High Priority,0,1
+USR_059,27,Khulna,1,31.3,Normal,1,0,Winter,41.5,High,1,High,2210,High Priority,1,0
+USR_066,35,Khulna,1,18.6,Normal,0,0,Winter,41.5,High,1,High,1950,High Priority,0,0
+USR_078,36,Khulna,3,31.8,Normal,0,1,Summer,41.5,High,1,High,2520,High Priority,0,0
+USR_088,40,Khulna,2,21.1,Normal,1,1,Summer,41.5,High,1,High,2150,High Priority,1,0
+USR_091,19,Khulna,3,21.6,High,0,0,Monsoon,41.5,High,1,High,2310,High Priority,0,1
+USR_095,32,Khulna,2,32.3,High,0,0,Monsoon,41.5,High,1,High,2380,High Priority,0,1
+USR_108,24,Khulna,2,26.4,High,0,0,Monsoon,41.5,High,1,High,2260,High Priority,0,1
+USR_121,39,Khulna,2,35.0,Normal,0,1,Winter,41.5,High,1,High,2430,High Priority,0,0
+USR_130,26,Khulna,3,30.4,Normal,0,1,Summer,41.5,High,1,High,2490,High Priority,0,0
+USR_131,38,Khulna,1,21.9,Normal,0,0,Winter,41.5,High,1,High,2020,High Priority,0,0
+USR_151,37,Khulna,3,21.6,Normal,0,0,Summer,41.5,High,1,High,2310,High Priority,0,0
+USR_162,37,Khulna,1,32.8,Normal,0,1,Winter,41.5,High,1,High,2240,High Priority,0,0
+USR_163,32,Khulna,3,24.1,Normal,0,1,Winter,41.5,High,1,High,2360,High Priority,0,0
+USR_168,20,Khulna,2,26.9,Normal,0,0,Winter,41.5,High,1,High,2270,High Priority,0,0
+USR_176,34,Khulna,1,21.9,Normal,1,0,Summer,41.5,High,1,High,2020,High Priority,1,0
+USR_182,26,Khulna,3,32.2,High,0,1,Summer,41.5,High,1,High,2520,High Priority,0,1
+USR_184,40,Khulna,1,21.9,Normal,0,0,Summer,41.5,High,1,High,2020,High Priority,0,0
+USR_191,24,Khulna,3,18.6,Normal,0,0,Summer,41.5,High,1,High,2250,High Priority,0,0
+USR_194,29,Khulna,1,23.3,Normal,0,1,Summer,41.5,High,1,High,2050,High Priority,0,0
+USR_002,31,Rajshahi,1,16.6,Normal,0,1,Summer,32.1,Medium,1,Low,1910,High Priority,0,0
+USR_006,20,Rajshahi,3,21.6,Normal,0,0,Summer,32.1,Medium,1,Low,2310,Standard,0,0
+USR_012,38,Rajshahi,2,23.5,High,0,1,Summer,32.1,Medium,1,Low,2200,High Priority,0,1
+USR_013,35,Rajshahi,3,21.0,Normal,0,0,Monsoon,32.1,Medium,1,Low,2300,Standard,0,0
+USR_023,34,Rajshahi,2,18.3,Normal,0,0,Summer,32.1,Medium,1,Low,2100,High Priority,0,0
+USR_029,35,Rajshahi,1,17.0,High,0,0,Monsoon,32.1,Medium,1,Low,1920,High Priority,0,1
+USR_034,20,Rajshahi,3,17.3,High,0,0,Summer,32.1,Medium,1,Low,2230,High Priority,0,1
+USR_037,20,Rajshahi,1,24.7,High,0,1,Summer,32.1,Medium,1,Low,2070,High Priority,0,1
+USR_048,19,Rajshahi,2,20.2,High,0,1,Monsoon,32.1,Medium,1,Low,2130,High Priority,0,1
+USR_056,23,Rajshahi,3,26.8,Normal,0,1,Winter,32.1,Medium,1,Low,2420,High Priority,0,0
+USR_058,23,Rajshahi,3,17.6,Normal,0,1,Summer,32.1,Medium,1,Low,2230,High Priority,0,0
+USR_061,40,Rajshahi,1,33.0,High,0,0,Monsoon,32.1,Medium,1,Low,2240,Standard,0,1
+USR_073,26,Rajshahi,1,24.9,Normal,1,0,Summer,32.1,Medium,1,Low,2080,Standard,1,0
+USR_077,36,Rajshahi,1,33.6,Normal,0,0,Monsoon,32.1,Medium,1,Low,2250,Standard,0,0
+USR_085,18,Rajshahi,3,34.0,Normal,0,0,Summer,32.1,Medium,1,Low,2560,Standard,0,0
+USR_098,32,Rajshahi,1,29.1,High,0,0,Winter,32.1,Medium,1,Low,2160,Standard,0,1
+USR_120,38,Rajshahi,3,32.9,Normal,0,0,Summer,32.1,Medium,1,Low,2540,Standard,0,0
+USR_129,33,Rajshahi,2,30.7,Normal,0,1,Summer,32.1,Medium,1,Low,2340,High Priority,0,0
+USR_142,30,Rajshahi,2,19.6,Normal,0,0,Summer,32.1,Medium,1,Low,2120,Standard,0,0
+USR_143,38,Rajshahi,3,34.5,Normal,0,0,Monsoon,32.1,Medium,1,Low,2570,Standard,0,0
+USR_156,31,Rajshahi,3,17.0,Normal,0,1,Monsoon,32.1,Medium,1,Low,2220,High Priority,0,0
+USR_166,28,Rajshahi,1,16.1,Normal,0,0,Summer,32.1,Medium,1,Low,1900,High Priority,0,0
+USR_171,28,Rajshahi,1,22.3,Normal,0,1,Winter,32.1,Medium,1,Low,2030,High Priority,0,0
+USR_189,32,Rajshahi,1,26.1,Normal,0,0,Winter,32.1,Medium,1,Low,2100,Standard,0,0
+USR_197,37,Rajshahi,3,24.0,Normal,0,1,Winter,32.1,Medium,1,Low,2360,High Priority,0,0
+USR_199,34,Rajshahi,3,20.6,Normal,0,0,Summer,32.1,Medium,1,Low,2290,Standard,0,0
+USR_003,38,Dhaka,3,26.4,Normal,0,0,Monsoon,38.2,Medium,0,Low,2410,Standard,0,0
+USR_010,26,Dhaka,3,29.1,Normal,0,0,Monsoon,38.2,Medium,0,Low,2460,Standard,0,0
+USR_015,20,Dhaka,2,23.3,High,0,0,Summer,38.2,Medium,0,Low,2200,Standard,0,1
+USR_030,31,Dhaka,2,25.1,High,0,1,Winter,38.2,Medium,0,Low,2230,High Priority,0,1
+USR_044,19,Dhaka,2,27.1,Normal,1,1,Winter,38.2,Medium,0,Low,2270,High Priority,1,0
+USR_046,22,Dhaka,1,32.4,High,0,0,Monsoon,38.2,Medium,0,Low,2230,Standard,0,1
+USR_067,31,Dhaka,2,26.3,Normal,0,0,Summer,38.2,Medium,0,Low,2260,Standard,0,0
+USR_070,39,Dhaka,3,31.2,Normal,0,0,Winter,38.2,Medium,0,Low,2500,Standard,0,0
+USR_079,19,Dhaka,2,26.1,Normal,1,0,Winter,38.2,Medium,0,Low,2250,Standard,1,0
+USR_099,21,Dhaka,3,20.3,Normal,0,1,Monsoon,38.2,Medium,0,Low,2290,High Priority,0,0
+USR_102,28,Dhaka,3,20.8,Normal,0,0,Summer,38.2,Medium,0,Low,2300,Standard,0,0
+USR_106,19,Dhaka,2,17.7,Normal,1,0,Summer,38.2,Medium,0,Low,2080,High Priority,1,0
+USR_116,30,Dhaka,2,34.8,High,0,1,Monsoon,38.2,Medium,0,Low,2430,High Priority,0,1
+USR_128,27,Dhaka,1,34.6,Normal,0,0,Summer,38.2,Medium,0,Low,2270,Standard,0,0
+USR_144,35,Dhaka,1,27.1,High,0,0,Winter,38.2,Medium,0,Low,2120,Standard,0,1
+USR_158,25,Dhaka,2,32.1,High,0,0,Summer,38.2,Medium,0,Low,2370,Standard,0,1
+USR_160,18,Dhaka,1,32.5,Normal,0,1,Monsoon,38.2,Medium,0,Low,2230,High Priority,0,0
+USR_164,31,Dhaka,1,21.4,Normal,0,0,Monsoon,38.2,Medium,0,Low,2010,Standard,0,0
+USR_167,35,Dhaka,3,31.3,Normal,0,1,Winter,38.2,Medium,0,Low,2510,High Priority,0,0
+USR_175,28,Dhaka,1,24.4,Normal,0,0,Winter,38.2,Medium,0,Low,2070,Standard,0,0
+USR_177,20,Dhaka,3,27.3,Normal,0,0,Winter,38.2,Medium,0,Low,2430,Standard,0,0
+USR_186,24,Dhaka,1,35.0,Normal,0,0,Summer,38.2,Medium,0,Low,2280,Standard,0,0
+USR_198,38,Dhaka,3,24.7,Normal,0,0,Summer,38.2,Medium,0,Low,2370,Standard,0,0
+USR_200,31,Dhaka,1,28.6,Normal,0,1,Winter,38.2,Medium,0,Low,2150,High Priority,0,0
+USR_008,26,Barisal,2,28.1,Normal,0,1,Summer,44.2,High,0,Medium,2290,High Priority,0,0
+USR_016,21,Barisal,3,32.8,Normal,0,1,Winter,44.2,High,0,Medium,2540,High Priority,0,0
+USR_019,34,Barisal,1,27.4,Normal,1,0,Monsoon,44.2,High,0,Medium,2130,High Priority,1,0
+USR_035,37,Barisal,1,27.8,Normal,0,0,Monsoon,44.2,High,0,Medium,2140,High Priority,0,0
+USR_039,35,Barisal,3,21.7,High,0,0,Summer,44.2,High,0,Medium,2310,High Priority,0,1
+USR_040,21,Barisal,1,21.0,High,0,1,Summer,44.2,High,0,Medium,2000,High Priority,0,1
+USR_041,24,Barisal,3,22.5,Normal,0,0,Monsoon,44.2,High,0,Medium,2330,High Priority,0,0
+USR_042,20,Barisal,3,24.0,Normal,1,0,Monsoon,44.2,High,0,Medium,2360,High Priority,1,0
+USR_049,18,Barisal,3,19.7,Normal,0,0,Winter,44.2,High,0,Medium,2270,High Priority,0,0
+USR_054,39,Barisal,2,27.8,Normal,1,0,Summer,44.2,High,0,Medium,2290,High Priority,1,0
+USR_064,32,Barisal,1,30.1,Normal,0,1,Summer,44.2,High,0,Medium,2180,High Priority,0,0
+USR_072,26,Barisal,2,22.2,Normal,0,0,Winter,44.2,High,0,Medium,2170,High Priority,0,0
+USR_076,37,Barisal,3,34.3,Normal,0,1,Monsoon,44.2,High,0,Medium,2570,High Priority,0,0
+USR_082,31,Barisal,3,27.3,Normal,0,0,Winter,44.2,High,0,Medium,2430,High Priority,0,0
+USR_084,33,Barisal,1,22.7,Normal,0,0,Summer,44.2,High,0,Medium,2030,High Priority,0,0
+USR_089,35,Barisal,3,19.5,Normal,0,0,Monsoon,44.2,High,0,Medium,2270,High Priority,0,0
+USR_090,24,Barisal,2,20.3,Normal,1,0,Monsoon,44.2,High,0,Medium,2140,High Priority,1,0
+USR_093,20,Barisal,2,25.3,Normal,0,1,Monsoon,44.2,High,0,Medium,2240,High Priority,0,0
+USR_097,31,Barisal,2,29.1,Normal,1,1,Summer,44.2,High,0,Medium,2310,High Priority,1,0
+USR_100,27,Barisal,3,30.2,Normal,0,1,Summer,44.2,High,0,Medium,2480,High Priority,0,0
+USR_103,26,Barisal,3,16.8,Normal,0,0,Monsoon,44.2,High,0,Medium,2220,High Priority,0,0
+USR_110,25,Barisal,1,24.8,Normal,0,0,Summer,44.2,High,0,Medium,2080,High Priority,0,0
+USR_118,22,Barisal,2,32.5,High,1,0,Winter,44.2,High,0,Medium,2380,High Priority,1,1
+USR_127,24,Barisal,2,32.2,Normal,0,0,Summer,44.2,High,0,Medium,2370,High Priority,0,0
+USR_133,34,Barisal,2,31.8,Normal,0,0,Summer,44.2,High,0,Medium,2370,High Priority,0,0
+USR_135,29,Barisal,1,31.0,Normal,0,0,Summer,44.2,High,0,Medium,2200,High Priority,0,0
+USR_157,39,Barisal,2,20.3,Normal,0,0,Summer,44.2,High,0,Medium,2140,High Priority,0,0
+USR_165,30,Barisal,3,17.0,Normal,0,0,Winter,44.2,High,0,Medium,2220,High Priority,0,0
+USR_170,31,Barisal,1,20.6,Normal,0,0,Summer,44.2,High,0,Medium,1990,High Priority,0,0
+USR_172,29,Barisal,3,34.2,Normal,1,1,Monsoon,44.2,High,0,Medium,2560,High Priority,1,0
+USR_188,32,Barisal,1,23.8,Normal,0,0,Summer,44.2,High,0,Medium,2060,High Priority,0,0
+USR_009,39,Mymensingh,3,17.4,Normal,0,1,Winter,40.3,High,1,Low,2230,High Priority,0,0
+USR_025,34,Mymensingh,1,21.3,Normal,0,0,Monsoon,40.3,High,1,Low,2010,High Priority,0,0
+USR_026,33,Mymensingh,2,19.6,Normal,0,0,Summer,40.3,High,1,Low,2120,High Priority,0,0
+USR_031,26,Mymensingh,2,21.4,Normal,0,0,Monsoon,40.3,High,1,Low,2160,High Priority,0,0
+USR_036,39,Mymensingh,3,22.0,Normal,1,0,Winter,40.3,High,1,Low,2320,High Priority,1,0
+USR_057,36,Mymensingh,3,28.4,Normal,0,1,Summer,40.3,High,1,Low,2450,High Priority,0,0
+USR_081,23,Mymensingh,3,25.9,Normal,0,0,Winter,40.3,High,1,Low,2400,High Priority,0,0
+USR_092,36,Mymensingh,2,24.9,Normal,0,1,Monsoon,40.3,High,1,Low,2230,High Priority,0,0
+USR_107,35,Mymensingh,2,23.9,Normal,0,0,Monsoon,40.3,High,1,Low,2210,High Priority,0,0
+USR_113,34,Mymensingh,2,31.6,Normal,0,0,Monsoon,40.3,High,1,Low,2360,High Priority,0,0
+USR_115,40,Mymensingh,1,26.9,Normal,0,1,Summer,40.3,High,1,Low,2120,High Priority,0,0
+USR_117,34,Mymensingh,3,22.3,Normal,0,1,Monsoon,40.3,High,1,Low,2330,High Priority,0,0
+USR_124,37,Mymensingh,2,27.8,Normal,0,1,Summer,40.3,High,1,Low,2290,High Priority,0,0
+USR_126,32,Mymensingh,2,34.8,Normal,0,0,Winter,40.3,High,1,Low,2430,High Priority,0,0
+USR_147,21,Mymensingh,3,17.2,Normal,0,0,Summer,40.3,High,1,Low,2220,High Priority,0,0
+USR_148,25,Mymensingh,3,16.8,High,0,0,Summer,40.3,High,1,Low,2220,High Priority,0,1
+USR_149,18,Mymensingh,1,35.0,High,0,1,Monsoon,40.3,High,1,Low,2280,High Priority,0,1
+USR_173,23,Mymensingh,3,18.9,Normal,1,0,Winter,40.3,High,1,Low,2260,High Priority,1,0
+USR_178,36,Mymensingh,3,19.6,Normal,0,0,Monsoon,40.3,High,1,Low,2270,High Priority,0,0
+USR_179,28,Mymensingh,3,17.6,Normal,1,0,Summer,40.3,High,1,Low,2230,High Priority,1,0
+USR_011,19,Chittagong,2,23.6,Normal,0,0,Monsoon,35.4,Medium,0,Medium,2200,Standard,0,0
+USR_022,35,Chittagong,3,29.1,Normal,0,0,Winter,35.4,Medium,0,Medium,2460,Standard,0,0
+USR_024,25,Chittagong,1,17.3,Normal,0,0,Monsoon,35.4,Medium,0,Medium,1930,High Priority,0,0
+USR_032,24,Chittagong,2,20.1,Normal,0,1,Monsoon,35.4,Medium,0,Medium,2130,High Priority,0,0
+USR_051,23,Chittagong,3,34.3,Normal,1,0,Winter,35.4,Medium,0,Medium,2570,Standard,1,0
+USR_065,33,Chittagong,3,20.5,Normal,0,1,Winter,35.4,Medium,0,Medium,2290,High Priority,0,0
+USR_075,22,Chittagong,2,28.7,Normal,0,0,Monsoon,35.4,Medium,0,Medium,2300,Standard,0,0
+USR_083,25,Chittagong,2,26.8,Normal,0,0,Monsoon,35.4,Medium,0,Medium,2270,Standard,0,0
+USR_087,25,Chittagong,2,28.6,Normal,0,1,Winter,35.4,Medium,0,Medium,2300,High Priority,0,0
+USR_104,36,Chittagong,2,28.1,Normal,1,1,Winter,35.4,Medium,0,Medium,2290,High Priority,1,0
+USR_114,32,Chittagong,3,25.2,Normal,0,0,Monsoon,35.4,Medium,0,Medium,2380,Standard,0,0
+USR_122,23,Chittagong,3,21.7,Normal,0,1,Winter,35.4,Medium,0,Medium,2310,High Priority,0,0
+USR_132,28,Chittagong,3,23.9,Normal,0,0,Summer,35.4,Medium,0,Medium,2360,Standard,0,0
+USR_136,30,Chittagong,3,33.9,Normal,0,1,Summer,35.4,Medium,0,Medium,2560,High Priority,0,0
+USR_140,38,Chittagong,1,31.8,Normal,0,1,Monsoon,35.4,Medium,0,Medium,2220,High Priority,0,0
+USR_141,32,Chittagong,2,34.1,High,1,0,Monsoon,35.4,Medium,0,Medium,2410,Standard,1,1
+USR_150,20,Chittagong,2,27.6,Normal,0,0,Winter,35.4,Medium,0,Medium,2280,Standard,0,0
+USR_152,38,Chittagong,3,29.7,Normal,0,1,Winter,35.4,Medium,0,Medium,2470,High Priority,0,0
+USR_154,33,Chittagong,1,17.7,Normal,0,0,Monsoon,35.4,Medium,0,Medium,1930,High Priority,0,0
+USR_155,35,Chittagong,1,27.1,Normal,0,1,Summer,35.4,Medium,0,Medium,2120,High Priority,0,0
+USR_159,39,Chittagong,3,21.1,Normal,0,1,Winter,35.4,Medium,0,Medium,2300,High Priority,0,0
+USR_161,34,Chittagong,1,23.1,Normal,0,1,Summer,35.4,Medium,0,Medium,2040,High Priority,0,0
+USR_169,18,Chittagong,2,19.3,High,0,0,Monsoon,35.4,Medium,0,Medium,2120,Standard,0,1
+USR_174,36,Chittagong,3,24.5,High,0,0,Summer,35.4,Medium,0,Medium,2370,Standard,0,1
+USR_180,34,Chittagong,3,19.0,Normal,0,0,Summer,35.4,Medium,0,Medium,2260,Standard,0,0
+USR_185,39,Chittagong,2,25.7,Normal,0,0,Winter,35.4,Medium,0,Medium,2240,Standard,0,0
+USR_014,34,Rangpur,2,17.7,Normal,1,0,Summer,49.1,High,1,Low,2080,High Priority,1,0
+USR_021,22,Rangpur,1,28.5,High,0,0,Monsoon,49.1,High,1,Low,2150,High Priority,0,1
+USR_045,24,Rangpur,3,20.7,Normal,0,0,Summer,49.1,High,1,Low,2290,High Priority,0,0
+USR_052,37,Rangpur,3,18.2,High,0,1,Monsoon,49.1,High,1,Low,2240,High Priority,0,1
+USR_053,34,Rangpur,3,29.1,High,0,1,Monsoon,49.1,High,1,Low,2460,High Priority,0,1
+USR_055,31,Rangpur,2,23.6,Normal,1,0,Summer,49.1,High,1,Low,2200,High Priority,1,0
+USR_063,39,Rangpur,3,34.8,Normal,0,0,Summer,49.1,High,1,Low,2580,High Priority,0,0
+USR_068,30,Rangpur,2,16.1,Normal,0,0,Summer,49.1,High,1,Low,2050,High Priority,0,0
+USR_069,35,Rangpur,3,33.1,Normal,0,0,Winter,49.1,High,1,Low,2540,High Priority,0,0
+USR_086,33,Rangpur,3,29.5,Normal,1,1,Summer,49.1,High,1,Low,2470,High Priority,1,0
+USR_094,25,Rangpur,1,26.6,Normal,0,0,Winter,49.1,High,1,Low,2110,High Priority,0,0
+USR_101,30,Rangpur,2,25.5,Normal,1,1,Summer,49.1,High,1,Low,2240,High Priority,1,0
+USR_105,39,Rangpur,1,32.3,Normal,0,1,Summer,49.1,High,1,Low,2230,High Priority,0,0
+USR_109,38,Rangpur,3,31.2,Normal,0,1,Monsoon,49.1,High,1,Low,2500,High Priority,0,0
+USR_112,24,Rangpur,3,25.7,High,0,1,Winter,49.1,High,1,Low,2390,High Priority,0,1
+USR_119,37,Rangpur,3,23.6,Normal,0,0,Winter,49.1,High,1,Low,2350,High Priority,0,0
+USR_134,28,Rangpur,1,24.9,Normal,0,1,Summer,49.1,High,1,Low,2080,High Priority,0,0
+USR_137,25,Rangpur,3,17.2,High,0,1,Monsoon,49.1,High,1,Low,2220,High Priority,0,1
+USR_146,29,Rangpur,1,27.2,Normal,0,1,Summer,49.1,High,1,Low,2120,High Priority,0,0
+USR_181,37,Rangpur,1,31.0,Normal,1,1,Winter,49.1,High,1,Low,2200,High Priority,1,0
+USR_190,39,Rangpur,3,34.7,Normal,0,0,Monsoon,49.1,High,1,Low,2570,High Priority,0,0
+USR_193,20,Rangpur,1,31.5,High,0,0,Summer,49.1,High,1,Low,2210,High Priority,0,1
+USR_017,23,Sylhet,2,16.1,Normal,0,0,Summer,46.0,High,0,Low,2050,High Priority,0,0
+USR_018,21,Sylhet,3,21.7,Normal,0,1,Summer,46.0,High,0,Low,2310,High Priority,0,0
+USR_038,26,Sylhet,1,33.7,High,0,0,Winter,46.0,High,0,Low,2250,High Priority,0,1
+USR_043,32,Sylhet,3,29.4,Normal,1,0,Summer,46.0,High,0,Low,2470,High Priority,1,0
+USR_060,31,Sylhet,3,26.9,Normal,0,0,Summer,46.0,High,0,Low,2420,High Priority,0,0
+USR_062,40,Sylhet,3,24.8,Normal,0,1,Winter,46.0,High,0,Low,2380,High Priority,0,0
+USR_071,36,Sylhet,3,28.6,Normal,0,0,Monsoon,46.0,High,0,Low,2450,High Priority,0,0
+USR_074,20,Sylhet,3,16.8,Normal,0,0,Monsoon,46.0,High,0,Low,2220,High Priority,0,0
+USR_080,33,Sylhet,1,24.2,Normal,0,0,Winter,46.0,High,0,Low,2060,High Priority,0,0
+USR_096,38,Sylhet,1,21.0,Normal,0,0,Monsoon,46.0,High,0,Low,2000,High Priority,0,0
+USR_111,40,Sylhet,2,23.9,Normal,0,0,Winter,46.0,High,0,Low,2210,High Priority,0,0
+USR_123,31,Sylhet,1,20.6,Normal,0,1,Monsoon,46.0,High,0,Low,1990,High Priority,0,0
+USR_125,26,Sylhet,2,20.9,Normal,0,0,Monsoon,46.0,High,0,Low,2150,High Priority,0,0
+USR_138,22,Sylhet,1,34.0,Normal,0,1,Winter,46.0,High,0,Low,2260,High Priority,0,0
+USR_139,32,Sylhet,2,28.7,Normal,0,0,Winter,46.0,High,0,Low,2300,High Priority,0,0
+USR_145,22,Sylhet,1,26.3,High,1,0,Monsoon,46.0,High,0,Low,2110,High Priority,1,1
+USR_153,30,Sylhet,2,29.9,Normal,0,1,Summer,46.0,High,0,Low,2330,High Priority,0,0
+USR_183,39,Sylhet,1,33.4,Normal,0,0,Summer,46.0,High,0,Low,2250,High Priority,0,0
+USR_187,28,Sylhet,3,18.5,Normal,0,0,Summer,46.0,High,0,Low,2250,High Priority,0,0
+USR_192,34,Sylhet,1,21.4,Normal,0,0,Winter,46.0,High,0,Low,2010,High Priority,0,0
+USR_195,38,Sylhet,2,31.0,Normal,0,0,Summer,46.0,High,0,Low,2350,High Priority,0,0
+USR_196,33,Sylhet,2,27.7,High,1,1,Summer,46.0,High,0,Low,2280,High Priority,1,1

@@ -1,0 +1,41 @@
+food_name_en,food_name_bn,season,local_availability,price_tier,primary_nutrient,iron_mg_per_100g,caloric_density,food_id
+Lal Shak,লাল শাক,Monsoon,Abundant,Low,Iron,2.5,Low,FOOD_01
+Mola Fish,মলা মাছ,Monsoon,Abundant,Medium,Vitamin A,5.7,Medium,FOOD_02
+Guava,পেয়ারা,Monsoon,Abundant,Low,Vitamin C,0.3,Low,FOOD_03
+Bottle Gourd (Lau),লাউ,Monsoon,Abundant,Low,Carbohydrates,0.3,Low,FOOD_04
+Bitter Gourd (Korola),করলা,Monsoon,Abundant,Low,Vitamin C,0.7,Low,FOOD_05
+Okra (Dherosh),ঢেঁড়স,Monsoon,Abundant,Low,Vitamin C,0.6,Low,FOOD_06
+Ridge Gourd (Jhinge),ঝিঙে,Monsoon,Abundant,Low,Vitamin C,0.5,Low,FOOD_07
+Snake Gourd (Chichinga),চিচিঙ্গা,Monsoon,Moderate,Low,Vitamin C,0.4,Low,FOOD_08
+Prawn (Chingri),চিংড়ি,Monsoon,Moderate,High,Protein,1.8,Medium,FOOD_09
+Hilsa (Ilish),ইলিশ,Monsoon,Moderate,High,Protein,2.0,High,FOOD_10
+Taro Stem (Kochu Shak),কচু শাক,Monsoon,Moderate,Low,Iron,1.3,Low,FOOD_11
+Corn (Bhutta),ভুট্টা,Monsoon,Abundant,Low,Carbohydrates,0.6,Medium,FOOD_12
+Papaya (Green),কাঁচা পেঁপে,Monsoon,Abundant,Low,Vitamin C,0.4,Low,FOOD_13
+Lentils (Dal),ডাল,Winter,Abundant,Low,Protein,6.5,High,FOOD_14
+Spinach (Palong Shak),পালং শাক,Winter,Abundant,Low,Iron,2.7,Low,FOOD_15
+Sweet Potato,মিষ্টি আলু,Winter,Abundant,Low,Carbohydrates,0.6,Medium,FOOD_16
+Cauliflower (Phulkopi),ফুলকপি,Winter,Abundant,Low,Vitamin C,0.4,Low,FOOD_17
+Cabbage (Bandhakopi),বাঁধাকপি,Winter,Abundant,Low,Vitamin C,0.5,Low,FOOD_18
+Tomato,টমেটো,Winter,Abundant,Low,Vitamin C,0.3,Low,FOOD_19
+Carrot (Gajor),গাজর,Winter,Abundant,Low,Vitamin A,0.3,Low,FOOD_20
+Beetroot,বিট,Winter,Moderate,Medium,Iron,0.8,Low,FOOD_21
+Green Peas (Motor),মটরশুটি,Winter,Abundant,Low,Protein,1.5,Medium,FOOD_22
+Mustard Greens (Shorisha Shak),সরিষা শাক,Winter,Moderate,Low,Iron,2.0,Low,FOOD_23
+Radish (Mula),মূলা,Winter,Abundant,Low,Vitamin C,0.3,Low,FOOD_24
+Potato (Aloo),আলু,Winter,Abundant,Low,Carbohydrates,0.4,High,FOOD_25
+Chicken (Murgi),মুরগি,Winter,Abundant,Medium,Protein,1.3,High,FOOD_26
+Eggs,ডিম,Winter,Abundant,Low,Protein,1.2,High,FOOD_27
+Yogurt (Doi),দই,Winter,Moderate,Medium,Calcium,0.1,Medium,FOOD_28
+Chickpeas (Chola),ছোলা,Winter,Abundant,Low,Protein,2.9,High,FOOD_29
+Mango,আম,Summer,Abundant,Medium,Vitamin C,0.2,Medium,FOOD_30
+Beef Liver,গরুর কলিজা,Summer,Moderate,High,Iron,9.0,High,FOOD_31
+Milk,দুধ,Summer,Moderate,Medium,Calcium,0.1,Medium,FOOD_32
+Watermelon (Tormuj),তরমুজ,Summer,Abundant,Low,Vitamin C,0.1,Low,FOOD_33
+Pineapple (Anarosh),আনারস,Summer,Moderate,Medium,Vitamin C,0.2,Low,FOOD_34
+Coconut (Narikel),নারিকেল,Summer,Moderate,Medium,Carbohydrates,0.4,Medium,FOOD_35
+Banana (Kola),কলা,Summer,Abundant,Low,Carbohydrates,0.3,Medium,FOOD_36
+Litchi (Litchu),লিচু,Summer,Moderate,High,Vitamin C,0.1,Low,FOOD_37
+Cucumber (Shosha),শসা,Summer,Abundant,Low,Vitamin C,0.3,Low,FOOD_38
+Rice (Chal),চাল,Summer,Abundant,Low,Carbohydrates,0.3,High,FOOD_39
+Rui Fish,রুই মাছ,Summer,Abundant,Medium,Protein,1.0,Medium,FOOD_40
