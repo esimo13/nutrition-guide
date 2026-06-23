@@ -18,7 +18,9 @@ type ApiResponse = {
   response: string;
   predicted_calories?: number;
   predicted_iron_tier?: string;
+  predicted_iron_tier_bn?: string;
   recommended_foods?: string[];
+  recommended_foods_bn?: string[];
 };
 
 const DISTRICTS = [
@@ -276,21 +278,36 @@ export default function HomePage() {
 
               {!loading && result && (
                 <div className="space-y-4">
-                  <div className="flex flex-wrap gap-3 text-xs text-slate-600">
+                  <div className="flex flex-col gap-4 text-slate-700">
                     {result.predicted_calories !== undefined && (
-                      <span className="rounded-full border border-slate-200 bg-slate-50 px-3 py-1">
-                        Calories: {result.predicted_calories}
-                      </span>
+                      <div className="w-full rounded-2xl border border-slate-200 bg-slate-50 px-5 py-4 shadow-sm">
+                        <p className="text-xs uppercase tracking-[0.25em] text-slate-500">
+                          ক্যালরি
+                        </p>
+                        <p className="mt-2 text-2xl font-semibold text-slate-900">
+                          {result.predicted_calories}
+                        </p>
+                      </div>
                     )}
-                    {result.predicted_iron_tier && (
-                      <span className="rounded-full border border-slate-200 bg-slate-50 px-3 py-1">
-                        Iron tier: {result.predicted_iron_tier}
-                      </span>
+                    {result.predicted_iron_tier_bn && (
+                      <div className="w-full rounded-2xl border border-slate-200 bg-slate-50 px-5 py-4 shadow-sm">
+                        <p className="text-xs uppercase tracking-[0.25em] text-slate-500">
+                          আয়রন স্তর
+                        </p>
+                        <p className="mt-2 text-xl font-semibold text-slate-900">
+                          {result.predicted_iron_tier_bn}
+                        </p>
+                      </div>
                     )}
-                    {result.recommended_foods && result.recommended_foods.length > 0 && (
-                      <span className="rounded-full border border-slate-200 bg-slate-50 px-3 py-1">
-                        Foods: {result.recommended_foods.join(", ")}
-                      </span>
+                    {result.recommended_foods_bn && result.recommended_foods_bn.length > 0 && (
+                      <div className="w-full rounded-2xl border border-slate-200 bg-slate-50 px-5 py-4 shadow-sm">
+                        <p className="text-sm font-semibold uppercase tracking-[0.25em] text-slate-600">
+                          খাবার
+                        </p>
+                        <p className="mt-2 text-lg font-bold leading-8 text-slate-900">
+                          {result.recommended_foods_bn.join(", ")}
+                        </p>
+                      </div>
                     )}
                   </div>
 

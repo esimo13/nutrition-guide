@@ -23,6 +23,11 @@ FEATURE_COLUMNS = [
     "newborn_stunting_risk",
 ]
 
+IRON_TIER_BN = {
+    "High Priority": "উচ্চ অগ্রাধিকার",
+    "Standard": "স্বাভাবিক",
+}
+
 load_dotenv()
 
 app = FastAPI()
@@ -150,20 +155,25 @@ async def recommend(user: UserProfile):
         )
     except ValueError as exc:
         raise HTTPException(status_code=400, detail=str(exc))
-    food_list = top_foods["food_name_en"].tolist()
+    food_list_en = top_foods["food_name_en"].tolist()
+    food_list_bn = top_foods["food_name_bn"].tolist()
 
     predictions = {
         "target_calories": round(predicted_calories, 2),
         "target_iron_tier": predicted_iron_tier,
     }
-    prompt = generate_llm_prompt(predictions, food_list, user.current_season)
+    prompt = generate_llm_prompt(predictions, food_list_bn, user.current_season)
     llm_response = get_llm_response(prompt)
 
     return {
         "response": llm_response,
         "predicted_calories": predictions["target_calories"],
         "predicted_iron_tier": predictions["target_iron_tier"],
-        "recommended_foods": food_list,
+        "predicted_iron_tier_bn": IRON_TIER_BN.get(
+            predictions["target_iron_tier"], predictions["target_iron_tier"]
+        ),
+        "recommended_foods": food_list_en,
+        "recommended_foods_bn": food_list_bn,
     }
 
 
